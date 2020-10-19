@@ -1,0 +1,6 @@
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\bin\Debug\Lesson3-POP.exe.config
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\bin\Debug\Lesson3-POP.exe
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\bin\Debug\Lesson3-POP.pdb
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\obj\Debug\Lesson3-POP.csprojAssemblyReference.cache
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\obj\Debug\Lesson3-POP.exe
+C:\Users\Alice\Desktop\Semester in VUM\Principles of programing\Lesson3-POP\Lesson3-POP\obj\Debug\Lesson3-POP.pdb
